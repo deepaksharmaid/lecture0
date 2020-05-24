@@ -2,3 +2,9 @@ h1{
   color: blue;
   text-align: center;
 }
+table{
+    border: black solid 2px;
+}
+th,td{
+    border: black solid 1px;
+}
